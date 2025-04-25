@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "tepr"]
 	path = tepr
-	url = https://github.com/cran/tepr
+	url = https://github.com/descostesn/tepr
